@@ -27,7 +27,8 @@ author:
   location         : "Wuhan, China"
   employer         :
   pubmed           : 
-  Rednote          : "https://www.xiaohongshu.com/user/profile/https://xhslink.com/m/6AdjDMYfL3b"
+  Rednote          : "https://xhslink.com/m/6AdjDMYfL3b"
+  email            : "Lorem@ipsum.com"
   researchgate     : 
   bitbucket        :
   codepen          :
@@ -38,7 +39,7 @@ author:
   github           :
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        :"https://xhslink.com/m/6AdjDMYfL3b"
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : # e.g., "linkedin username"
