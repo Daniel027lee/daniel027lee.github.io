@@ -27,9 +27,9 @@ author:
   location         : "Wuhan, China"
   employer         :
   pubmed           : 
-  Rednote          : "https://xhslink.com/m/6AdjDMYfL3b"
-  email            : "Lorem@ipsum.com"
-  researchgate     : 
+  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
+  email            : 
+  researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   bitbucket        :
   codepen          :
   dribbble         :
