@@ -19,7 +19,7 @@ redirect_from:
 # 👋 About Me
 Hi!👋 My name is <strong> Maoguo Li</strong>(you can call me Daniel),I am currently a PhD student at the School of Journalism and Information Communication, Huazhong University of Science and Technology, under the supervision of Professor <a href="https://sjic.hust.edu.cn/info/1165/8337.htm" class="link-accent">Jing Niu</a>.I received my M.A. in Journalism and Communication from Wuhan University of Technology in 2024, where I was advised by Associate Professor <a href="http://wenfa.whut.edu.cn/szdw/jgjj/202312/t20231226_981438.shtml" class="link-accent">Honglei Zhai</a>.
 
-My research focuses on the empirical study of user behavior in digital media environments. Methodologically, I employ quantitative, qualitative, and experimental approaches in the social sciences. My work has been published in peer-reviewed journals such as <em>Journalism and Mass Communication</em> (《新闻界》), <em>Global Journal of Media Studies</em> (《全球传媒学刊》), and <em>Scientific Reports</em>.
+My research focuses on the empirical study of user behavior in digital media environments. Methodologically, I employ quantitative, qualitative, and experimental approaches in the social sciences. My work has been published in peer-reviewed journals such as <em>Journalism and Mass Communication</em> 《新闻界》, <em>Global Journal of Media Studies</em> 《全球传媒学刊》, and *Scientific Reports*.
 
 
 # 🔥 News
@@ -44,11 +44,10 @@ My research focuses on the empirical study of user behavior in digital media env
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.9 - 2029.06(expected)*: PhD Candidate in Journalism and Communication,Huazhong University of Science and Technology,Wuhan,China.
+- *2021.09 - 2024.06*: Master of Journalism and Communication,Wuhan University of Technology,Wuhan,China.
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
