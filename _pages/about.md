@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My name is <span class="accent-text">Maoguo Li</span>(you can call me Daniel),I am currently a PhD student at the School of Journalism and Information Communication, Huazhong University of Science and Technology, under the supervision of Professor <a href="https://sjic.hust.edu.cn/info/1165/8337.htm" class="link-accent">Jing Niu</a>.I received my M.A. in Journalism and Communication from Wuhan University of Technology in 2024, where I was advised by Associate Professor Honglei Zhai.
+My name is <span class="accent-text">Maoguo Li</span>(you can call me Daniel),I am currently a PhD student at the School of Journalism and Information Communication, Huazhong University of Science and Technology, under the supervision of Professor <a href="https://sjic.hust.edu.cn/info/1165/8337.htm" class="link-accent">Jing Niu</a>.I received my M.A. in Journalism and Communication from Wuhan University of Technology in 2024, where I was advised by Associate Professor <a href="http://wenfa.whut.edu.cn/szdw/jgjj/202312/t20231226_981438.shtml" class="link-accent">Honglei Zhai</a>.
 
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
