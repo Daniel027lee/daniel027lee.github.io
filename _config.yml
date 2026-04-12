@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Maoguo Li"
-description              : "Maoguo Li is a PhD student at Huazhong University of Science and Technology. "
+description              : "Daniel_limaoguo@163.com"
 repository               : "RayeRen/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -27,8 +27,8 @@ author:
   location         : "Wuhan, China"
   employer         :
   pubmed           : 
-  googlescholar    : "e.g.,"
-  email            : "Daniel_limaoguo@163.com"
+  googlescholar    : ""
+  email            : ""
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
