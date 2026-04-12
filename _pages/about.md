@@ -46,7 +46,7 @@ My research focuses on the empirical study of user behavior in digital media env
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2025.9 - 2029.06(expected)*: PhD Candidate in Journalism and Communication,Huazhong University of Science and Technology, Wuhan, China.
+- *2025.09 - 2029.06(expected)*: PhD Candidate in Journalism and Communication,Huazhong University of Science and Technology, Wuhan, China.
 - *2021.09 - 2024.06*: Master of Journalism and Communication, Wuhan University of Technology, Wuhan, China.
 
 # 💬 Invited Talks
