@@ -25,21 +25,12 @@ My research focuses on the empirical study of user behavior in digital media env
 # 🔥 News
 - *2026.03*: &nbsp;🎉🎉 One paper has been accepted for presentation at IAMCR2026 (International Association for Media and Communication Research), Galway, Ireland.
 
-# 📝 Publications 
+# 📝 Publications
+- *[2]*:Zhai, H., Li, M., Liu, J. (2025). Quantified Audience: An Empirical Study of Data Journalism Audience Portrait Construction. Global Journal of Media Studies, 12(1), 145–170. (CSSCI In Chinese).量化受众：数据新闻受众画像建构实证研究.
+- *[1]*:Zhai, H., Li, M., Liu, J. (2024). Effect, Mechanism, and Path: A Study on the Dissemination of Data Journalism on Social Platform. Journalism and Mass Communication, 8, 34–45, 65. (CSSCI In Chinese).效果·机理·路径：数据新闻社交平台传播热度研究.DOI:10.15897/j.cnki.cn51-1046/g2.20240725.003.
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- *[2]*Li, J., Liu, X., Wang, Y., Peng, X., Tang, H., & Li, M. (2025). Ecological tourism suitability evaluation and landscape ecological risk analysis of the Yangtze River Delta Region from 2000 to 2020 based on the MaxEnt model. Journal of Asian Architecture and Building Engineering, 1–18. https://doi.org/10.1080/13467581.2025.2510617
+- *[1]*:Shi, W., Li, L., Zhang, Z., Li, M., & Li, J. (2025). Research on driving factors of consumer purchase intention of artificial intelligence creative products based on user behavior. Scientific Reports, 15(1), 1-23.https://doi.org/10.1038/s41598-025-01258-x
 
 # 🎖 Honors and Awards
 - *2024.06* Outstanding Graduate(优秀毕业研究生),Wuhan University of Technology.
