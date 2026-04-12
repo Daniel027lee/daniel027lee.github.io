@@ -24,7 +24,6 @@ My research focuses on the empirical study of user behavior in digital media env
 
 # 🔥 News
 - *2026.03*: &nbsp;🎉🎉 One paper has been accepted for presentation at IAMCR2026 (International Association for Media and Communication Research), Galway, Ireland.
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📝 Publications 
 
@@ -43,15 +42,15 @@ My research focuses on the empirical study of user behavior in digital media env
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.06* Outstanding Graduate(优秀毕业研究生),Wuhan University of Technology.
+- *2023.11* 江苏省第十届传媒学科研究生论坛二等奖
+- *2022.11* 内地-港澳残疾人事业高质量发展研讨会暨湖北省残疾人事业发展研究会年论文优秀奖
 
+# 💻 Project
+- *2025.12 - Present*, 国家社科基金重大项目：中美欧网民线上行为模式及其关键影响因素比较研究（25&ZD288）（编号：2023vb071）【主持】
+- *2021.09 - 2024.06*, 国家社科基⾦项目：受众对数据新闻的认知与采用⾏为研究（编号：20BXW029）【参与】，已结项
+- *2019.05 - 2020.02*, 中央⾼校基本科研业务费资助项目：VALS2视角下数据新闻受众画像建构研究（编号：2023vb071）【主持】，已结项
+  
 # 📖 Educations
-- *2025.09 - 2029.06(expected)*: PhD Candidate in Journalism and Communication,Huazhong University of Science and Technology, Wuhan, China.
-- *2021.09 - 2024.06*: Master of Journalism and Communication, Wuhan University of Technology, Wuhan, China.
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2025.09 - Present*: PhD Candidate in Journalism and Communication,Huazhong University of Science and Technology,Wuhan,China.
+- *2021.09 - 2024.06*: Master of Journalism and Communication, Wuhan University of Technology,Wuhan,China.
