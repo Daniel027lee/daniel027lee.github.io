@@ -28,7 +28,7 @@ My research focuses on the empirical study of user behavior in digital media env
 # 📝 Publications
 - *[4]*:Zhai, H., Li, M., Liu, J. (2025). Quantified Audience: An Empirical Study of Data Journalism Audience Portrait Construction. Global Journal of Media Studies, 12(1), 145–170. (In Chinese CSSCI).量化受众：数据新闻受众画像建构实证研究.
 - *[3]*:Zhai, H., Li, M., Liu, J. (2024). Effect, Mechanism, and Path: A Study on the Dissemination of Data Journalism on Social Platform. Journalism and Mass Communication, 8, 34–45, 65. (In Chinese CSSCI).效果·机理·路径：数据新闻社交平台传播热度研究.
-- *[2]*Li, J., Liu, X., Wang, Y., Peng, X., Tang, H., & Li, M. (2025). Ecological tourism suitability evaluation and landscape ecological risk analysis of the Yangtze River Delta Region from 2000 to 2020 based on the MaxEnt model. Journal of Asian Architecture and Building Engineering, 1–18. 
+- *[2]*:Li, J., Liu, X., Wang, Y., Peng, X., Tang, H., & Li, M. (2025). Ecological tourism suitability evaluation and landscape ecological risk analysis of the Yangtze River Delta Region from 2000 to 2020 based on the MaxEnt model. Journal of Asian Architecture and Building Engineering, 1–18. 
 - *[1]*:Shi, W., Li, L., Zhang, Z., Li, M., & Li, J. (2025). Research on driving factors of consumer purchase intention of artificial intelligence creative products based on user behavior. Scientific Reports, 15(1), 1-23.
 
 # 🎖 Honors and Awards
