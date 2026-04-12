@@ -22,6 +22,15 @@
       {% if author.location %}
         <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.location }}</li>
       {% endif %}
+      {% if author.rednote %}
+<li>
+  <a href="{{ author.rednote }}" target="_blank" rel="noopener noreferrer">
+    <img src="{{ '/images/rednote64.png' | relative_url }}" alt="Rednote"
+         style="width: 16px; height: 16px; vertical-align: -2px; margin-right: 6px;">
+    Rednote
+  </a>
+</li>
+{% endif %}
       {% if author.employer %}
         <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.employer }}</li>
       {% endif %}
