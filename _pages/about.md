@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 # 👋 About Me
-Hi!👋 My name is <strong> Maoguo Li</strong>(you can call me Daniel),I am currently a PhD student at the School of Journalism and Information Communication, Huazhong University of Science and Technology, under the supervision of Professor <a href="https://sjic.hust.edu.cn/info/1165/8337.htm" class="link-accent">Jing Niu</a>.I received my M.A. in Journalism and Communication from Wuhan University of Technology in 2024, where I was advised by Associate Professor <a href="http://wenfa.whut.edu.cn/szdw/jgjj/202312/t20231226_981438.shtml" class="link-accent">Honglei Zhai</a>.
+Hi!👋 My name is <strong> Maoguo Li 李茂国 </strong>(you can call me Daniel),I am currently a PhD student at the School of Journalism and Information Communication, Huazhong University of Science and Technology, under the supervision of Professor <a href="https://sjic.hust.edu.cn/info/1165/8337.htm" class="link-accent">Jing Niu</a>.I received my M.A. in Journalism and Communication from Wuhan University of Technology in 2024, where I was advised by Associate Professor <a href="http://wenfa.whut.edu.cn/szdw/jgjj/202312/t20231226_981438.shtml" class="link-accent">Honglei Zhai</a>.
 
 My research focuses on the empirical study of user behavior in digital media environments. Methodologically, I employ quantitative, qualitative, and experimental approaches in the social sciences. My work has been published in peer-reviewed journals such as *Journalism and Mass Communication*《新闻界》, *Global Journal of Media Studies*《全球传媒学刊》, and *Scientific Reports*.
 
