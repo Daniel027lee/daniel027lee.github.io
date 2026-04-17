@@ -34,7 +34,7 @@ My research focuses on the empirical study of user behavior in digital media env
 # 🎖 Honors and Awards
 - *2024.06* Outstanding Graduate Award,Wuhan University of Technology.
 - *2023.11* 江苏省第十届传媒学科研究生论坛二等奖，江苏省文学类研究生教育指导委员会
-- *2022.11* 内地-港澳残疾人事业高质量发展研讨会论文优秀奖，湖北省残疾人事业发展研究会
+- *2022.11* 内地-港澳残疾人事业高质量发展研讨会优秀奖，湖北省残疾人事业发展研究会
 
 # 💻 Projects
 - *2025.12 - Present*, 国家社科基金重大项目：中美欧网民线上行为模式及其关键影响因素比较研究（编号：25&ZD288）【申请&参与】
