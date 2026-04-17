@@ -32,7 +32,7 @@ My research focuses on the empirical study of user behavior in digital media env
 - *[1]*:Shi, W., Li, L., Zhang, Z., Li, M., & Li, J. (2025). Research on driving factors of consumer purchase intention of artificial intelligence creative products based on user behavior. Scientific Reports, 15(1), 1-23.<a href="https://www.nature.com/articles/s41598-025-01258-x" class="link-accent">View Article</a>
 
 # 🎖 Honors and Awards
-- *2024.06* Outstanding Graduate（优秀毕业研究生）,Wuhan University of Technology（武汉理工大学）.
+- *2024.06* Outstanding Graduate Award,Wuhan University of Technology.
 - *2023.11* 江苏省第十届传媒学科研究生论坛二等奖，江苏省文学类研究生教育指导委员会
 - *2022.11* 内地-港澳残疾人事业高质量发展研讨会论文优秀奖，湖北省残疾人事业发展研究会
 
