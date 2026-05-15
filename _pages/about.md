@@ -23,6 +23,7 @@ My research focuses on the empirical study of user behavior in digital media env
 
 
 # 🔥 News
+- *2026.05*: &nbsp;🎉🎉 One paper has been accepted for poster presentation at the 2026 Tsinghua University Doctoral Student Academic Forum in Journalism and Communication (清华大学新闻传播学博士生学术论坛), Beijing, China.
 - *2026.05*: &nbsp;🎉🎉 One paper has been accepted for presentation at The 7th Qingmei Forum (青梅论坛), Wuhan, China.
 - *2026.03*: &nbsp;🎉🎉 One paper has been accepted for presentation at IAMCR2026 (International Association for Media and Communication Research), Galway, Ireland.
 
