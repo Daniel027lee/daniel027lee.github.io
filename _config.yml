@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Maoguo Li"
 description              : "Daniel_limaoguo@163.com"
-repository               : "RayeRen/acad-homepage.github.io"
+仓库               : "RayeRen/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Maoguo Li"
-  avatar           : "images/picture1*1.png"
+  avatar           : "images/qingmei1*1.png"
   bio              : "Huazhong University of Science and Technology"
   location         : "Wuhan, China"
   employer         :
