@@ -33,7 +33,7 @@ My research focuses on the empirical study of user behavior in digital media env
 - *2024.06* Outstanding Graduate Award,Wuhan University of Technology.
 
 # 💻 Projects
-- *2025.12 - Present*, 国家社科基金重大项目：中美欧网民线上行为模式及其关键影响因素比较研究（编号：25&ZD288）【申请&参与】
+- *2025.12 - Present*, 国家社科基金重大项目：中美欧网民线上行为模式及其关键影响因素比较研究（编号：25&ZD288）【参与】
 - *2021.09 - 2024.06*, 国家社科基⾦一般项目：受众对数据新闻的认知与采用⾏为研究（编号：20BXW029）【参与】，已结项
 - *2023.05 - 2024.05*, 中央⾼校基本科研业务费资助项目：VALS2视角下数据新闻受众画像建构研究（编号：2023vb071）【主持】，已结项
   
