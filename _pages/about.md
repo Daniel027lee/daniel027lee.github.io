@@ -26,6 +26,9 @@ My research focuses on the empirical study of user behavior in digital media env
 - *[2]*:Li, J., Liu, X., Wang, Y., Peng, X., Tang, H., & Li, M. (2025). Ecological tourism suitability evaluation and landscape ecological risk analysis of the Yangtze River Delta Region from 2000 to 2020 based on the MaxEnt model. Journal of Asian Architecture and Building Engineering, 1–18. <a href="https://www.tandfonline.com/doi/full/10.1080/13467581.2025.2510617" class="link-accent">View Article</a>
 - *[1]*:Shi, W., Li, L., Zhang, Z., Li, M., & Li, J. (2025). Research on driving factors of consumer purchase intention of artificial intelligence creative products based on user behavior. Scientific Reports, 15(1), 1-23.<a href="https://www.nature.com/articles/s41598-025-01258-x" class="link-accent">View Article</a>
 
+# 📰 Public Writing
+- *[1]*:牛静,李茂国.道德情绪“上头”，如何让事实赶上来，《中国青年报》(2026-1026)<a href="[https://www.nature.com/articles/s41598-025-01258-x](https://zqb.cyol.com/pad/content/202610/26/content_432225.html?isshow=2)" class="link-accent">View Article</a>
+
 # 🎖 Honors and Awards
 - *2026.05* The 7th Qingmei Forum【Third Prize】第七届新闻传播学研究生“青梅论坛”三等奖，华中科技大学
 - *2023.11* The 10th Jiangsu Postgraduate Academic Forum on Media Discipline【Second prize】江苏省第十届传媒学科研究生论坛二等奖，江苏省文学类研究生教育指导委员会
