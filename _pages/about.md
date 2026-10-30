@@ -27,7 +27,7 @@ My research focuses on the empirical study of user behavior in digital media env
 - *[1]*:Shi, W., Li, L., Zhang, Z., Li, M., & Li, J. (2025). Research on driving factors of consumer purchase intention of artificial intelligence creative products based on user behavior. Scientific Reports, 15(1), 1-23.<a href="https://www.nature.com/articles/s41598-025-01258-x" class="link-accent">View Article</a>
 
 # 📰 Public Writing
-- *[1]*:牛静,李茂国.道德情绪“上头”，如何让事实赶上来，《中国青年报》(2026-1026)<a href="[https://www.nature.com/articles/s41598-025-01258-x](https://zqb.cyol.com/pad/content/202610/26/content_432225.html?isshow=2)" class="link-accent">View Article</a>
+- *[1]*:牛静,李茂国.道德情绪“上头”，如何让事实赶上来，《中国青年报》(2026-1026).<a href="https://zqb.cyol.com/pad/content/202610/26/content_432225.html?isshow=2" class="link-accent">View Article</a>
 
 # 🎖 Honors and Awards
 - *2026.05* The 7th Qingmei Forum【Third Prize】第七届新闻传播学研究生“青梅论坛”三等奖，华中科技大学
