@@ -25,7 +25,7 @@ Welcome to my home page! My name is <strong> Maoguo Li 李茂国 </strong>(you c
 - *[1]*:Shi, W., Li, L., Zhang, Z., Li, M., & Li, J. (2025). Research on driving factors of consumer purchase intention of artificial intelligence creative products based on user behavior. Scientific Reports, 15(1), 1-23. <a href="https://www.nature.com/articles/s41598-025-01258-x" class="link-accent">View Article</a>
 
 <h1 id="public-writing">📰 Public Writing</h1>
-- *[1]*:牛静,李茂国.道德情绪“上头”,如何让事实赶上来,《中国青年报》(2026-10-26). <a href="https://zqb.cyol.com/pad/content/202610/26/content_432225.html?isshow=2" class="link-accent">Read Full Article</a>
+- *[1]*:牛静,李茂国.道德情绪“上头”,如何让事实赶上来,《中国青年报》(2026-10-26 08版). <a href="https://zqb.cyol.com/pad/content/202610/26/content_432225.html?isshow=2" class="link-accent">Read Full Article</a>
 
 # 🎖 Honors and Awards
 - *2026.05* The 7th Qingmei Forum【Third Prize】第七届新闻传播学研究生“青梅论坛”三等奖,华中科技大学
